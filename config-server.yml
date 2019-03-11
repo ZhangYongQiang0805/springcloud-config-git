@@ -1,3 +1,2 @@
-my:
-  name: abc
-  age: 123
+info:
+  profile: default

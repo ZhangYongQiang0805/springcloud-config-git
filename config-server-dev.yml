@@ -1,3 +1,2 @@
-my:
-  name: def
-  age: 456
+info:
+  profile: dev
