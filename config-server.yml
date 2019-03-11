@@ -1,2 +1,3 @@
-info:
-  profile: dev
+my:
+  name: abc
+  age: 123
