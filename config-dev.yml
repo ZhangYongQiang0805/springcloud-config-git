@@ -1,1 +1,2 @@
-hello=Hello! I'm dev 5
+server:
+  port: 8765
